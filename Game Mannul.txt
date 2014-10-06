@@ -1,0 +1,61 @@
+Mario
+
+ 
+
+Single player game
+
+Player is Mario
+
+ 
+
+keys for moving
+
+left arrow key moves Mario left, right key moves him right, and up key will make Mario
+
+jump
+
+ 
+
+Objection
+
+Mario begins on the left side of the screen and starts with four initial lives. To win the
+
+game, Mario must collect 50 points. To collect points, Mario must collect the gold coins
+
+moving towards him and he can also jump directly to land on either a turtle or a
+
+mushroom.
+
+ 
+
+Other than the mentioned “non­deadly” obstacles above, there are also deadly obstacles
+
+which Mario must dodge (by jumping over) to avoid losing a life. The deadly obstacles are
+
+the green tube, the spiked red flower, and the boss, bowser. To avoid deadly obstacles
+
+Mario must use the up key to jump over them. If hit by a deadly obstacle, Mario loses a
+
+life and restarts floating above the ground on the left side of the screen. If Mario loses all
+
+of his lives, he loses the game and the game ends. However, if Mario succeeds in
+
+reaching 31 points, Bowser, the boss, appears. Bowser will speedily run back and forth
+
+on the canvas and Mario must now avoid Bowser (running back and forth) as well as All
+
+obstacles (moving left).
+
+ 
+
+Increasing stages/levels
+
+Every 10 points, Mario succeeds to the next level. Starting at level one, each level
+
+increases at 11, 21, and 31 points, making there four total levels. At Each level increase,
+
+obstacles move faster. When Mario reaches level four at 31 points, Bowser appears and
+
+Mario must do his best to jump over him and to collect 19 addition points to reach 50
+
+points without losing all of his lives. At 50 points, Mario wins!!!
